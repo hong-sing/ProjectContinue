@@ -15,3 +15,6 @@
 
 # :bulb: Website
 http://khs7632.cafe24.com
+
+# :microphone: PPT
+https://www.miricanvas.com/v/11nv5pm
