@@ -6,7 +6,7 @@
 # :computer: Stack
 * Java
 * Javascript
-* Spring
+* SpringBoot
 * MyBatis
 * MariaDB 
 
