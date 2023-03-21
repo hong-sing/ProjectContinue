@@ -38,3 +38,15 @@ where dt_prog = 'J06' and mem_id = 'fjhdmj555';
 
 insert into tb_couponlist (cp_code, mem_id)
 values ('A0001', '12345');
+
+
+DELIMITER //
+CREATE TRIGGER insert_joincoupon
+    AFTER INSERT ON tb_mem
+    for each row
+begin
+    insert into tb_couponlist(cp_code, mem_id) values ('A0002', NEW.mem_id);
+end //
+DELIMITER ;
+
+drop trigger insert_joincoupon;
