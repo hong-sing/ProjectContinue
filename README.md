@@ -15,6 +15,7 @@
 
 # :bulb: Website
 http://khs7632.cafe24.com
+http://khs7632.cafe24.com/admin (관리자 페이지)
 
 # :microphone: PPT
 https://www.miricanvas.com/v/11nv5pm
