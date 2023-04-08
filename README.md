@@ -14,8 +14,7 @@
 ![image](https://user-images.githubusercontent.com/107542350/224039718-a9392d06-2f1b-4eaa-b9ac-892fa5664343.png)
 
 # :bulb: Website
-http://khs7632.cafe24.com  
-http://khs7632.cafe24.com/admin (관리자 페이지)
+http://khs7632.cafe24.com
 
 # :microphone: PPT
 https://www.miricanvas.com/v/11nv5pm
